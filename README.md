@@ -1,2 +1,2 @@
 Try it: 
-https://gracious-mahavira-9ed31a.netlify.app
+https://laughing-galileo-ca684c.netlify.app/
